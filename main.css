@@ -1,0 +1,14 @@
+.span {
+    background-color: #999;
+}
+
+input {
+    padding: 10px;
+    border-color: #474747;
+    transition: 0.5;
+}
+
+.button {
+    background-color: #07470E;
+
+}
